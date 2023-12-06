@@ -1,7 +1,7 @@
 {
     "short_name": "Twittor",
     "name": "Applicacion de mensajes",
-    "start_url": "index_maca.html",
+    "start_url": "index.html",
     "background_color": "#3498db",
     "display": "standalone",
     "orientation": "portrait",
